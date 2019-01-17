@@ -1,2 +1,2 @@
 *.ipunb linguist-language=Python
-Notebook/* linguist-vendored
+Analysis/Notebook/* linguist-vendored
